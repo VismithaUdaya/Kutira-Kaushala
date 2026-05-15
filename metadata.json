@@ -1,0 +1,6 @@
+{
+  "name": "Kutira-Kushala",
+  "description": "A Micro-Factory Showcase platform for cottage industry entrepreneurs to list production capacity and connect with bulk buyers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
